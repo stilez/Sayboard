@@ -68,13 +68,14 @@
     <string name="models_model_display_name_null">Null</string>
 
     <string name="models_download_dialog_title">Download Model</string>
-
+    <string name="models_download_dialog_text">If your language does not appear in this list, please use the import button instead, and search online for a model file.</string>
+    
     <string name="models_import_dialog_import">Import</string>
     <string name="models_import_dialog_title">Import Model</string>
     <string name="models_import_dialog_text_before_link">Manually download a Vosk model from </string>
     <string name="models_import_dialog_text_link">the Vosk website</string>
-    <string name="models_import_dialog_text_after_link"> - make sure to pick a "small" model - and then choose it in the file picker after pressing import</string>
-
+    <string name="models_import_dialog_text_after_link">- Sayboard requires a "small" model.\nThen press import and choose it in the file picker\n\nUndocumented models may exist for some languages. Search the ISO 639-1 language (+optional country) code, for example:\nvosk-model-small-LANGUAGE to find builds, often at URL:\nhttps:\\\\alphacephei.com/vosk/models/vosk-model-small-LANGUAGE-VERSION.zip\nSmall model files usually look like this:\nvosk-model-small-en-gb-0.15.zip</string>
+    
     <!-- UI Preferences -->
     <string name="ui_light_theme_header">Light Theme</string>
     <string name="ui_light_theme_foreground_material_you_title">Use Material You foreground color</string>
