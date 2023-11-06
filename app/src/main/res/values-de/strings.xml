@@ -67,12 +67,13 @@
     <string name="models_model_display_name_null">Null</string>
 
     <string name="models_download_dialog_title">Download Modell</string>
+    <string name="models_download_dialog_text">Wenn Ihre Sprache nicht in dieser Liste erscheint, verwenden Sie bitte stattdessen die Schaltfläche "Importieren" und suchen Sie online nach einer Modelldatei.</string>
 
     <string name="models_import_dialog_import">Import</string>
     <string name="models_import_dialog_title">Importiere Modell</string>
     <string name="models_import_dialog_text_before_link">Manueller download eines Vosk Modells von </string>
     <string name="models_import_dialog_text_link">Die Vosk Internetseite</string>
-    <string name="models_import_dialog_text_after_link"> - Stelle sicher ein "kleines" Modell zu nehmen - Nachdem du auf Import klickst und wähle es dann in der Dateiauswahl</string>
+    <string name="models_import_dialog_text_after_link">- Sayboard erfordert ein "kleines" Modell.\nKlicken Sie dann auf "Importieren" und wählen Sie es in der Dateiauswahl aus\n\nFür einige Sprachen können undokumentierte Modelle existieren. Suchen Sie nach dem ISO 639-1-Sprachcode (+optional Land), zum Beispiel:\nvosk-model-small-SPRACHE, um Builds zu finden, oft unter der URL:\nhttps:\\\\alphacephei.com/vosk/models/vosk-model-small-SPRACHE-VERSION.zip\nKleine Modelldateien sehen normalerweise so aus:\nvosk-model-small-en-gb-0.15.zip</string>
 
     <!-- UI Preferences -->
     <string name="ui_light_theme_header">Helles Thema</string>
